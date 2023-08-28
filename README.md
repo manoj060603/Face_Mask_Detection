@@ -208,14 +208,6 @@ Figure 8: Comparison with other implementations
 - Incorporating model into raspberry pi for real time identification.
 - Other researchers can use the dataset provided in this paper for further advanced models such as those of face recognition, facial landmarks, and facial part detection process.
 
-## 13. Credits: 
-Thanking my project teammates for caring and supporting me wholeheartedly. The role you played in my life is invaluable. I’m grateful for all of your help and continued support.
-<div class="align-text">
-  <p>
-   <p text-align= "justify"> Agam Madan : https://www.linkedin.com/in/agam-madan/  </p>   
-   <p text-align= "justify"> Rohan Arora : https://www.linkedin.com/in/rohanarora18/  </p> 
-  </p>
-</div>
 
-## 14. License: 
+## 13. License: 
 - Apache License 2.0
